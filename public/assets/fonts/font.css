@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "TFArrow";
+  src: url("./tfarrow/TFArrow-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "TFArrow";
+  src: url("./tfarrow/tfarrowmedium-webfont.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+}

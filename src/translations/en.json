@@ -1,0 +1,29 @@
+{
+    "toolbar": {
+        "book": "BOOK",
+        "manage": "MANAGE",
+        "experience": "EXPERIENCE",
+        "whereWeFly": "WHERE WE FLY",
+        "loyalty": "LOYALTY",
+        "help": "HELP"
+    },
+    "appCover": {
+        "p1": "NEW DESTINATION",
+        "p2": "MIAMI",
+        "p3": "From July 22nd",
+        "highlightedBtn": "BOOK NOW"
+    },
+    "flightBookingTabs": {
+        "searchFlights": "Search flights",
+        "checkIn": "Manage booking / Check in",
+        "flightInfo": "What's on your flight",
+        "flightStatus": "Flight status"
+    },
+    "disclaimer": {
+        "txt": "Visit our COVID-19 hub for current destinations, travel advice and more.",
+        "btnText": "Go to COVID-19 hub"
+    },
+    "loginLink" : "Log in to earn and spend Skywards Miles",
+    "searchLink" : "Advanced search: multi-city, promo codes, partner airlines  >",
+    "continueBtn" : "Continue"
+}
